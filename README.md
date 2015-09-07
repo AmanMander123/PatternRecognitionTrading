@@ -14,7 +14,7 @@ There were 2 variables that were altered and tested:
 2. How far into the future to make the prediction. The cases tested here were 1 minute, 5 minutes, 15 minutes, 30 minutes and 60 minutes.
 
 ##Results
-As expected, the accuracy of this strategy fluctuates around 50% for different variations in the two variables, thus not profiable in its current form.
+As expected, the accuracy of this strategy fluctuates around 50% for different variations in the two variables, thus not profitable in its current form.
 
 ##Note
 This experiment is still on-going. Further details and in-depth analysis of the results will be added soon.
